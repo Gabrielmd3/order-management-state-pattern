@@ -1,0 +1,15 @@
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\bin\Debug\net9.0\order-management-state-pattern.exe
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\bin\Debug\net9.0\order-management-state-pattern.deps.json
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\bin\Debug\net9.0\order-management-state-pattern.runtimeconfig.json
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\bin\Debug\net9.0\order-management-state-pattern.dll
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\bin\Debug\net9.0\order-management-state-pattern.pdb
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\order-management-state-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\order-management-state-pattern.AssemblyInfoInputs.cache
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\order-management-state-pattern.AssemblyInfo.cs
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\order-management-state-pattern.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\order-management-state-pattern.sourcelink.json
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\order-management-state-pattern.dll
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\refint\order-management-state-pattern.dll
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\order-management-state-pattern.pdb
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\order-management-state-pattern.genruntimeconfig.cache
+C:\Users\Gabriel Delfes\Documents\GitHub\order-management-state-pattern\order-management-state-pattern\obj\Debug\net9.0\ref\order-management-state-pattern.dll
